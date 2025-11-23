@@ -1,0 +1,7 @@
+{
+  "name": "LittleExplorer - Child Travel Log",
+  "description": "A world-class, AI-powered travel journal to track and visualize your child's adventures around the globe.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
